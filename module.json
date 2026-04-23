@@ -1,1 +1,164 @@
-
+[
+  {
+    "name": "Ashizw",
+    "description": "keep shizuku alive 24/7",
+    "author": "Ghulam Qadar",
+    "repoUrl": "https://github.com/Snakeeyez248/Ashizw"
+  },
+  {
+    "name": "AZenith",
+    "description": "Universal auto Performance modules to enhance gaming experience while preserving daily usability",
+    "author": "Liliya2727",
+    "repoUrl": "https://github.com/Liliya2727/AZenith"
+  },
+  {
+    "name": "Box for Magisk/KernelSU",
+    "description": "A transparent proxy toolbox module designed for Android root environments",
+    "author": "boxproxy,taamarin",
+    "repoUrl": "https://github.com/boxproxy/box"
+  },
+  {
+    "name": "COPG Spoof",
+    "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
+    "author": "Alireza Parsi",
+    "repoUrl": "https://github.com/AlirezaParsi/COPG"
+  },
+  {
+    "name": "Device Faker",
+    "description": "Uses Zygisk to implement custom configuration for app device (model) spoofing",
+    "author": "Seyud",
+    "repoUrl": "https://github.com/Seyud/device_faker"
+  },
+  {
+    "name": "Dimensity GPU Governor",
+    "description": "GPU dynamic frequency scaling controller for MediaTek Mali GPUs, optimized to balance power consumption and performance under high-load scenarios",
+    "author": "Seyud, Tools-cx-app",
+    "repoUrl": "https://github.com/Seyud/Mediatek_Mali_GPU_Governor"
+  },
+  {
+    "name": "FreePPS",
+    "description": "Unlocks and enables support for the standard PPS fast charging protocol on Xiaomi devices",
+    "author": "Seyud",
+    "repoUrl": "https://github.com/Seyud/FreePPS"
+  },
+  {
+    "name": "Hyper Unlocked",
+    "description": "A module to unlock high-end features on all Xiaomi devices",
+    "author": "ukriu",
+    "repoUrl": "https://github.com/ukriu/HyperUnlocked"
+  },
+  {
+    "name": "Integrity Box",
+    "description": "A toolkit for managing Play Integrity & Detections",
+    "author": "𝗠𝗘𝗢𝗪𝗻𝗮 💅",
+    "repoUrl": "https://github.com/MeowDump/Integrity-Box"
+  },
+  {
+    "name": "KernelSU Grant Toast",
+    "description": "Make KernelSU show a “Grant Superuser Permission” toast like Magisk",
+    "author": "NativeStar",
+    "repoUrl": "https://github.com/NativeStar/KernelSUGrantToast"
+  },
+  {
+    "name": "Maodie Launcher",
+    "description": "A root module for running and controlling system-wide proxy (Mihomo)",
+    "author": "Maodie",
+    "repoUrl": "https://github.com/SherlockChiang/Maodie-Launcher"
+  },
+  {
+    "name": "MagiskRenef",
+    "description": "Run renef_server on boot",
+    "author": "vichhka",
+    "repoUrl": "https://github.com/vichhka-git/magisk-renef"
+  },
+  {
+    "name": "MFGA",
+    "description": "System-wide Font Overrider with Unique GMS Masking & Multi-Range Unicode Filter",
+    "author": "Numbersf",
+    "repoUrl": "https://github.com/Numbersf/MakeFontsGreatAgain"
+  },
+  {
+    "name": "MicroG Installer Revived again",
+    "description": "Promote microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to system with privileged permissions",
+    "author": "spacealtctrl",
+    "repoUrl": "https://github.com/spacealtctrl/microg_installer_revived_again"
+  },
+  {
+    "name": "Motorola OTA Blocker",
+    "description": "Disables Motorola software update notifications by bind-mounting empty directories over Motorola OTA components",
+    "author": "juic3b0x",
+    "repoUrl": "https://github.com/juic3b0x"
+  },
+  {
+    "name": "NeoZygisk",
+    "description": "Zygote injection with ptrace",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/JingMatrix/NeoZygisk"
+  },
+  {
+    "name": "NetProxy-Magisk",
+    "description": "Based on the Xray core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices",
+    "author": "Fanju6",
+    "repoUrl": "https://github.com/Fanju6/NetProxy-Magisk"
+  },
+  {
+    "name": "Play Integrity Fix [INJECT]",
+    "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+    "author": "KOWX712",
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
+  },
+  {
+    "name": "Play Integrity Fork",
+    "description": "Fix <A13 Play Integrity DEVICE verdict",
+    "author": "osm0sis",
+    "repoUrl": "https://github.com/osm0sis/PlayIntegrityFork"
+  },
+  {
+    "name": "PIxelify Next",
+    "description": "Module to enable pixel functions on almost every android",
+    "author": "BasGame1",
+    "repoUrl": "https://github.com/BasGame1/Pixelify-Next"
+  },
+  {
+    "name": "Project Raco",
+    "description": "Performance Module",
+    "author": "Kanagawa Yamada",
+    "repoUrl": "https://github.com/LoggingNewMemory/Project-Raco"
+  },
+  {
+    "name": "ReZygisk",
+    "description": "Standalone implementation of Zygisk",
+    "author": "The PerformanC Organization",
+    "repoUrl": "https://github.com/PerformanC/ReZygisk"
+  },
+  {
+    "name": "Rescue",
+    "description": "Recovery Engine for Saving Critical User Elements - TWRP backup tool compatible with Android-DataBackup",
+    "author": "GhulamQadar",
+    "repoUrl": "https://github.com/Snakeeyez248/RESCUE"
+  },
+  {
+    "name": "SUSFS-FOR-KERNELSU",
+    "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
+    "author": "sidex15 & simonpunk",
+    "repoUrl": "https://github.com/sidex15/susfs4ksu-module"
+  },
+  {
+    "name": "TEESimulator",
+    "description": "Software simulation for Android hardware-backed key pairs with key attestation",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/JingMatrix/TEESimulator"
+  },
+  {
+    "name": "Vector (Lsposed-OOS)",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 - 16",
+    "author": "JingMatrix and LSPosed Developers",
+    "repoUrl": "https://github.com/JingMatrix/Vector"
+  },
+  {
+    "name": "zygisk-detach",
+    "description": "Zygisk module to detach installed apps from Play Store, hooking binder",
+    "author": "j-hc",
+    "repoUrl": "https://github.com/j-hc/zygisk-detach"
+  }
+]
