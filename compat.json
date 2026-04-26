@@ -1,18 +1,63 @@
 [
   {
-    "name": "ABC",
-    "author": "XYZ",
-    "description": "test",
+    "name": "AOSP Dialer Port",
+    "author": "𝗠𝗘𝗢𝗪𝗻𝗮 💅",
+    "description": "Systemless AOSP Dialer with Auto-Call Recording Support",
     "variants": [
       {
-        "label": "Android 67",
-        "version": "67",
-        "download": "https://github.com/MeowDump/Three-Finger-Screenshot/releases/download/v1/v1-Three-Finger-Screenshot-23-08-2025.zip"
+        "label": "A16 April 2026 SP",
+        "version": "11",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v11-AOSP-Dialer-Port-A16-QPR2-14-04-2026.zip"
       },
       {
-        "label": "Android 69 QPR69",
-        "version": "whatever QPR1",
-        "download": "https://github.com/MeowDump/NetBlock/releases/download/v1/v1-NetBlock-11-03-2026.zip"
+        "label": "A16 March 2026 SP",
+        "version": "10",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v10-AOSP-Dialer-Port-A16-QPR2-11-03-2026.zip"
+      },
+      {
+        "label": "A16 February 2026 SP",
+        "version": "9",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v9-AOSP-Dialer-Port-A16-QPR2-11-02-2026.zip"
+      },
+      {
+        "label": "A16 December 2025 SP",
+        "version": "8",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v8-AOSP-Dialer-Port-A16-14-12-2025.zip"
+      },
+      {
+        "label": "A16 November 2025 SP",
+        "version": "7",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v7.1-AOSP-Dialer-Port-A16-25-11-2025.zip"
+      },
+      {
+        "label": "A16 October 2025 SP",
+        "version": "6",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v6-AOSP-Dialer-Port-A16-27-10-2025.zip"
+      },
+      {
+        "label": "A16 August 2025 SP",
+        "version": "5",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v5-AOSP-Dialer-Port-A16-03-08-2025.zip"
+      },
+      {
+        "label": "A15 July 2025 SP",
+        "version": "4",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v4-AOSP-Dialer-Port-05-07-2025.zip"
+      },
+      {
+        "label": "A15 May 2025 SP",
+        "version": "3",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v3.AOSP.Dialer.Port.17-05-2025.zip"
+      },
+      {
+        "label": "A15 April 2025 SP",
+        "version": "2",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v2-AOSP-Dialer-Port-A15-QPR3.zip"
+      },
+      {
+        "label": "A15 April 2024 SP",
+        "version": "1",
+        "download": "https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v1-AOSP-Dialer-Port-25-12-2024.zip"
       }
     ]
   }
